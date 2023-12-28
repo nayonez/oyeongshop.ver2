@@ -46,7 +46,7 @@ public class BoardController {
     public String qnaModify() { return "/board/qna-product-modify"; }
 
 
-    // 리뷰 게시판
+    // 리뷰 게시판!
     // GET 리뷰 페이지 조회(상품ID에 따른 리뷰들)
     @GetMapping("/review-list")    //product-detail 하단에 위치
     public String findAllReview(Long prodId, Model model) {
