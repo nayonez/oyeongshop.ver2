@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 ### ERD
-
+![erd]([복사한 링크 주소](https://github.com/nayonez/oyeongshop.ver2/blob/main/ERD.png))
 
 ### WIRE FRAME
 
