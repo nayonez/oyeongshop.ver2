@@ -35,6 +35,8 @@
 </p>
 
 ### 기능 영상 
+https://github.com/nayonez/oyeongshop.ver2/assets/144882233/87a446e6-bf59-4025-bcb7-1a14cc8057d3
+
 
 
 
