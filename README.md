@@ -35,7 +35,9 @@
 </p>
 
 ### 기능 영상 
-https://github.com/nayonez/oyeongshop.ver2/blob/main/OyeongShop1.mp4
+<p align="left">
+  <img src="https://github.com/nayonez/oyeongshop.ver2/blob/main/ERD.png" width="700" height="500">
+</p>
 
 
 ## 📍 주요 기능
