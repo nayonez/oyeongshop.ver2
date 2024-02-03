@@ -35,10 +35,7 @@
 </p>
 
 ### 기능 영상 
-
-<p align="left">
-  <img src="https://github.com/nayonez/oyeongshop.ver2/assets/144882233/87a446e6-bf59-4025-bcb7-1a14cc8057d3" width="500" height="400">
-</p>
+https://github.com/nayonez/oyeongshop.ver2/assets/144882233/216f2bb9-4aef-4944-adf1-47282fa48b59
 
 
 
