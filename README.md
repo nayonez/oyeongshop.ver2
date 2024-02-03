@@ -31,7 +31,7 @@
 
 ### ERD
 <p align="center">
-  <img src="https://github.com/nayonez/oyeongshop.ver2/blob/main/ERD.png" width="800" height="400">
+  <img src="https://github.com/nayonez/oyeongshop.ver2/blob/main/ERD.png" width="700" height="500">
 </p>
 
 ### 기능 영상 
