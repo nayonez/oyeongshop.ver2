@@ -34,10 +34,6 @@
   <img src="https://github.com/nayonez/oyeongshop.ver2/blob/main/ERD.png">
 </p>
 
-### WIRE FRAME
-
-
-
 ### 기능 영상 
 
 
