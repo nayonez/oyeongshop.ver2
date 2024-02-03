@@ -35,7 +35,7 @@
 </p>
 
 ### 기능 영상 
-
+https://github.com/nayonez/oyeongshop.ver2/blob/main/OyeongShop1.mp4
 
 
 ## 📍 주요 기능
